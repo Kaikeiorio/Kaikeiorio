@@ -13,9 +13,6 @@ Outras ferramentas: Git, GitHub
 🌱 Sempre buscando aprender mais sobre tecnologias web e análise de dados para ajudar empresas a tomar decisões mais informadas com base em dados.
 🏀 Nos momentos de lazer, gosto de jogar basquete .
 
-📫 Como me encontrar
-LinkedIn: www.linkedin.com/in/kaike-iorio-gabriel-21545122a
-
 ⚡ Curiosidades
 Sempre procure conciliar meu trabalho com atividades que me mantenham ativo, como jogar basquete.
 Estou apaixonado por aprender novas ferramentas que me ajudem a desenvolver soluções otimizadas, tanto na área da web quanto em análise de dados .
